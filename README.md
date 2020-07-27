@@ -43,7 +43,7 @@
 		<a style="color: black;" href="https://bit.ly/channel_himanshujain">
 	       <i class="fab fa-youtube"></i>
 	    </a>
-	    <a style="color: black;" href="https://bit.ly/channel_himanshujain" >
+	    <a style="color: black;" href="https://twitter.com/Himanshu_Guitar" >
       <i class="social-icon fab fa-twitter"></i>
   </a>
 
