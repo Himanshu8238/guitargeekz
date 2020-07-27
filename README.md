@@ -1,4 +1,4 @@
-```html
+
 <head>
 	<title>GuitarGeekz</title>
     <!-- CSS Stylesheets -->
