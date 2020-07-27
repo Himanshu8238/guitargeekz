@@ -1,5 +1,43 @@
 '''HTML
 
+
+<style>
+h1{
+	color:lightgreen;
+}
+
+p{
+	color: palegreen;
+}
+
+a{
+	text-decoration: none;
+}
+
+.parttwo{
+	background-color: palevioletred	;
+height: 200px;
+}
+
+
+
+
+.guitar{
+	width:400px;
+}
+
+.footer{
+	height:100px;
+	background-color:palevioletred;
+}
+
+
+@media (max-width: 1028px) {
+
+}
+
+</style>
+
 <head>
 	<title>GuitarGeekz</title>
     <!-- CSS Stylesheets -->
